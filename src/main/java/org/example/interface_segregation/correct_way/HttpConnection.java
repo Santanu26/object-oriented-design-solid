@@ -1,4 +1,4 @@
-package org.example.interface_segregation.violation.correct_way;
+package org.example.interface_segregation.correct_way;
 
 public interface HttpConnection extends Connection{
 
